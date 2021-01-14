@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2021.1.1)  4 JAN 2021 11:24
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2021.1.1)  8 JAN 2021 16:56
  restricted system commands enabled.
  file:line:error style messages enabled.
 **eptexdonf2020.tex
@@ -1649,6 +1649,14 @@ Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \backup@length=\skip87
 \ar@cellbox=\box108
 )
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bxtexlogo/bxtexlogo.sty
+Package: bxtexlogo 2018/03/31 v0.4
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/hologo/hologo.sty
+Package: hologo 2019/12/05 v1.14 A logo collection with bookmark support (HO)
+)
+\bxlg@g@height=\dimen348
+)
 (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.
 sty
 Package: luatexja-preset 2020-09-14 Japanese font presets
@@ -1906,16 +1914,16 @@ LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \g_MT_multlinerow_int=\count387
-\l_MT_multwidth_dim=\dimen348
+\l_MT_multwidth_dim=\dimen349
 \origjot=\skip88
-\l_MT_shortvdotswithinadjustabove_dim=\dimen349
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen350
-\l_MT_above_intertext_sep=\dimen351
-\l_MT_below_intertext_sep=\dimen352
-\l_MT_above_shortintertext_sep=\dimen353
-\l_MT_below_shortintertext_sep=\dimen354
+\l_MT_shortvdotswithinadjustabove_dim=\dimen350
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen351
+\l_MT_above_intertext_sep=\dimen352
+\l_MT_below_intertext_sep=\dimen353
+\l_MT_above_shortintertext_sep=\dimen354
+\l_MT_below_shortintertext_sep=\dimen355
 \xmathstrut@box=\box109
-\xmathstrut@dim=\dimen355
+\xmathstrut@dim=\dimen356
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
@@ -1940,31 +1948,31 @@ LaTeX Font Warning: Font shape `T1/FiraSansLight(0)/m/n' undefined
 
 )
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 40.
+(Font)              `operators' in the math version `normal' on input line 43.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> T1/uop/m/n on input line 40.
-LaTeX Font Info:    Redeclaring math alphabet \mathnormal on input line 41.
-LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 43.
+(Font)                  OT1/lmr/m/n --> T1/uop/m/n on input line 43.
+LaTeX Font Info:    Redeclaring math alphabet \mathnormal on input line 44.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 45.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/pplx/m/it on input line 43.
+(Font)                  OT1/lmr/m/it --> T1/pplx/m/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/b/it --> T1/pplx/m/it on input line 43.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 44.
+(Font)                  OT1/lmr/b/it --> T1/pplx/m/it on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 47.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  TU/FiraMono(0)/m/n --> T1/lmtt/m/n on input line 44.
+(Font)                  TU/FiraMono(0)/m/n --> T1/lmtt/m/n on input line 47.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/FiraMono(0)/b/n --> T1/lmtt/m/n on input line 44.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 45.
+(Font)                  TU/FiraMono(0)/b/n --> T1/lmtt/m/n on input line 47.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 48.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  TU/FiraSansLight(0)/m/n --> T1/kurier/m/n on input line 
-45.
+48.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  TU/FiraSansLight(0)/b/n --> T1/kurier/m/n on input line 
-45.
+48.
 \symnumbers=\mathgroup13
 \symastro=\mathgroup14
-LaTeX Font Info:    Redeclaring math symbol \newmoon on input line 79.
+LaTeX Font Info:    Redeclaring math symbol \newmoon on input line 82.
 luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: Font "FOT-Rod
 inNTLGPro-B" not found.(load cache: extra_rodinntlgpro-b.luc)(load cache: extra_
 rodinntlgpro-eb.luc)
@@ -2031,27 +2039,27 @@ Package fontspec Info: Font family 'FOT-RodinNTLGPro-B(1)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 
-LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 98.
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 101.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
 (Font)                  JY3/HaranoAjiMincho-Regular.otf(0)/m/n --> JY3/FOT-Rodin
-NTLGPro-B(1)/m/n on input line 98.
+NTLGPro-B(1)/m/n on input line 101.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 (Font)                  JY3/HaranoAjiMincho-Regular.otf(0)/b/n --> JY3/FOT-Rodin
-NTLGPro-B(1)/m/n on input line 98.
+NTLGPro-B(1)/m/n on input line 101.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 (Font)                  JY3/FOT-RodinNTLGPro-B(1)/m/n --> JY3/FOT-RodinNTLGPro-B
-(1)/b/n on input line 98.
+(1)/b/n on input line 101.
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 98.
+(Font)              scaled to size 9.6222pt on input line 101.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 98.
-LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 105.
+(Font)              scaled to size 9.6222pt on input line 101.
+LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 108.
 LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
 (Font)                  JY3/HaranoAjiGothic-Regular.otf(0)/m/n --> JY3/FOT-Rodin
-NTLGPro-B(1)/m/n on input line 105.
+NTLGPro-B(1)/m/n on input line 108.
 LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
 (Font)                  JY3/HaranoAjiGothic-Regular.otf(0)/m/n --> JY3/FOT-Rodin
-NTLGPro-B(1)/m/n on input line 105.
+NTLGPro-B(1)/m/n on input line 108.
 (load cache: extra_hackgen-regular.luc)
 
 Package fontspec Info: Could not resolve font "HackGen/BI" (it probably
@@ -2065,9 +2073,9 @@ Package fontspec Info: Could not resolve font "HackGen/I" (it probably doesn't
 luaotfload | aux : font no 92 (nil) does not define feature smcp for script latn
  with language dflt
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 108.
+(Font)              scaled to size 10.53629pt on input line 111.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 108.
+(Font)              scaled to size 10.53629pt on input line 111.
 luaotfload | aux : font no 94 (nil) does not define feature smcp for script latn
  with language dflt
 
@@ -2125,64 +2133,64 @@ Package: lltjp-array 2018/03/29 Patch to array for LuaTeX-ja
 ) (./eptexdonf2020.aux)
 \openout1 = eptexdonf2020.aux
 
-LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 135.
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 138.
 LaTeX Font Info:    Trying loading font information for OML+npxmi on input line 
-135.
+138.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 138.
 LaTeX Font Info:    Trying loading font information for TS1+cmr on input line 13
-5.
+8.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 138.
 LaTeX Font Info:    Trying loading font information for U+npxexa on input line 1
-35.
+38.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxexa.fd
 File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
 )
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 138.
 LaTeX Font Info:    Trying loading font information for LMS+npxsy on input line 
-135.
+138.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
 File: lmsnpxsy.fd 2016/07/04 Fontinst v1.933 font definitions for LMS/npxsy.
 )
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 138.
 LaTeX Font Info:    Trying loading font information for LMX+npxexx on input line
- 135.
+ 138.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
 File: lmxnpxexx.fd 2016/07/04 Fontinst v1.933 font definitions for LMX/npxexx.
 )
-LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    ... okay on input line 138.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -2221,13 +2229,13 @@ LaTeX Font Info:    ... okay on input line 135.
 (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count388
-\scratchdimen=\dimen356
+\scratchdimen=\dimen357
 \scratchbox=\box110
 \nofMPsegments=\count389
 \nofMParguments=\count390
 \everyMPshowfont=\toks73
 \MPscratchCnt=\count391
-\MPscratchDim=\dimen357
+\MPscratchDim=\dimen358
 \MPnumerator=\count392
 \makeMPintoPDFobject=\count393
 \everyMPtoPDFconversion=\toks74
@@ -2240,7 +2248,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-Package hyperref Info: Link coloring ON on input line 135.
+Package hyperref Info: Link coloring ON on input line 138.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -2254,9 +2262,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count394
 )
-LaTeX Info: Redefining \ref on input line 135.
-LaTeX Info: Redefining \pageref on input line 135.
-LaTeX Info: Redefining \nameref on input line 135.
+LaTeX Info: Redefining \ref on input line 138.
+LaTeX Info: Redefining \pageref on input line 138.
+LaTeX Info: Redefining \nameref on input line 138.
  (./eptexdonf2020.out) (./eptexdonf2020.out)
 \@outlinefile=\write7
 
@@ -2286,15 +2294,15 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 135.
-LaTeX Info: Redefining \microtypecontext on input line 135.
+LaTeX Info: Redefining \selectfont on input line 138.
+LaTeX Info: Redefining \microtypecontext on input line 138.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 135.
+LaTeX Info: Redefining \showhyphens on input line 138.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -2313,57 +2321,57 @@ Package pgfplots notification 'compat/show suggested version=true': you might be
 nefit from \pgfplotsset{compat=1.17} (current compat level: 1.9).
 
 
-Package chemgreek Info: Activating mapping `fontspec' on line 135.
+Package chemgreek Info: Activating mapping `fontspec' on line 138.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfarrowinset=\dimen358
-\pgfarrowlength=\dimen359
-\pgfarrowwidth=\dimen360
-\pgfarrowlinewidth=\dimen361
+\pgfarrowinset=\dimen359
+\pgfarrowlength=\dimen360
+\pgfarrowwidth=\dimen361
+\pgfarrowlinewidth=\dimen362
 ) (./eptexdonf2020.nav)
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 135.
+(Font)              scaled to size 5.77332pt on input line 138.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 135.
+(Font)              scaled to size 5.77332pt on input line 138.
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 135.
+(Font)              scaled to size 7.69775pt on input line 138.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 135.
+(Font)              scaled to size 7.69775pt on input line 138.
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 139.
+(Font)              scaled to size 13.85594pt on input line 142.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 139.
+(Font)              scaled to size 13.85594pt on input line 142.
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/b/n' will be
-(Font)              scaled to size 13.85594pt on input line 139.
+(Font)              scaled to size 13.85594pt on input line 142.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/b/n' will be
-(Font)              scaled to size 13.85594pt on input line 139.
+(Font)              scaled to size 13.85594pt on input line 142.
 
-Overfull \vbox (51.54187pt too high) detected at line 139
+Overfull \vbox (51.54187pt too high) detected at line 142
  []
 
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 3.84888pt on input line 139.
+(Font)              scaled to size 3.84888pt on input line 142.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 3.84888pt on input line 139.
+(Font)              scaled to size 3.84888pt on input line 142.
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/b/n' will be
-(Font)              scaled to size 10.53629pt on input line 158.
+(Font)              scaled to size 10.53629pt on input line 161.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/b/n' will be
-(Font)              scaled to size 10.53629pt on input line 158.
+(Font)              scaled to size 10.53629pt on input line 161.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `HackGen' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `JT3/HackGen(1)/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 158.
+(Font)              scaled to size 10.53629pt on input line 161.
 LaTeX Font Info:    Font shape `JY3/HackGen(1)/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 158.
-LaTeX Font Info:    Trying loading font information for T1+uop on input line 158
+(Font)              scaled to size 10.53629pt on input line 161.
+LaTeX Font Info:    Trying loading font information for T1+uop on input line 161
 .
 
 (/usr/local/texlive/texmf-local/tex/latex/classico/t1uop.fd
@@ -2373,7 +2381,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `uop' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying loading font information for U+msa on input line 158.
+LaTeX Font Info:    Trying loading font information for U+msa on input line 161.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -2382,7 +2390,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying loading font information for U+msb on input line 158.
+LaTeX Font Info:    Trying loading font information for U+msb on input line 161.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -2392,40 +2400,40 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 5.86954pt on input line 158.
+(Font)              scaled to size 5.86954pt on input line 161.
 LaTeX Font Info:    Trying loading font information for OMX+yhex on input line 1
-58.
+61.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/yhmath/OMXyhex.fd
 File: OMXyhex.fd 
 File: OMXyhex.fd 2013/07/03 v1.1 YH's humble contribution to TeX maths (NP)
 )
 LaTeX Font Info:    Trying loading font information for U+npxmia on input line 1
-58.
+61.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
 LaTeX Font Info:    Trying loading font information for U+npxsym on input line 1
-58.
+61.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
 LaTeX Font Info:    Trying loading font information for U+npxsyc on input line 1
-58.
+61.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
-LaTeX Font Info:    Trying loading font information for U+rsfs on input line 158
+LaTeX Font Info:    Trying loading font information for U+rsfs on input line 161
 .
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying loading font information for T1+pplx on input line 15
-8.
+LaTeX Font Info:    Trying loading font information for T1+pplx on input line 16
+1.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/t1pplx.fd
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
@@ -2434,16 +2442,561 @@ File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 158.
+(Font)              scaled to size 11.54663pt on input line 161.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 158.
+(Font)              scaled to size 11.54663pt on input line 161.
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/b/n' will be
-(Font)              scaled to size 11.54663pt on input line 158.
+(Font)              scaled to size 11.54663pt on input line 161.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/b/n' will be
-(Font)              scaled to size 11.54663pt on input line 158.
+(Font)              scaled to size 11.54663pt on input line 161.
  [2
 
 ]
+Overfull \vbox (12.53522pt too high) detected at line 192
+ []
+
+[3
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 201.
+
+[4
+
+] [5
+
+] [6
+
+](load cache: extra_times-roman.luc)
+luaotfload | aux : font no 227 (nil) defines no feature for script latn
+luaotfload | aux : font no 227 (nil) defines no feature for script dflt(load cac
+he: extra_times-bolditalic.luc)(load cache: extra_times-bold.luc)(load cache: ex
+tra_times-italic.luc)
+
+Package fontspec Info: Font family 'Times(0)' created for font 'Times' with
+(fontspec)             options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Times:mode=node;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Times/B:mode=node;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Times/I:mode=node;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Times/BI:mode=node;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Times' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load cache: extra_palatino-roman.luc)
+luaotfload | aux : font no 237 (nil) defines no feature for script latn
+luaotfload | aux : font no 237 (nil) defines no feature for script dflt(load cac
+he: extra_palatino-bolditalic.luc)(load cache: extra_palatino-bold.luc)(load cac
+he: extra_palatino-italic.luc)
+
+Package fontspec Info: Font family 'Palatino(0)' created for font 'Palatino'
+(fontspec)             with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Palatino:mode=node;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Palatino/B:mode=node;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Palatino/I:mode=node;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Palatino/BI:mode=node;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-PalatinoLinotype.cfg
+File: mt-PalatinoLinotype.cfg 2012/03/10 v1.0 microtype config. file: Palatino L
+inotype and similar fonts (LBD)
+)
+Package microtype Info: Character `textservicemark ' is missing
+(microtype)             in font `TU/Palatino(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `‐' is missing
+(microtype)             in font `TU/Palatino(0)/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+(load cache: extra_cmuserif-roman.luc)
+
+Package fontspec Info: Could not resolve font "cmunrm/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "cmunrm/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "cmunrm/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'cmunrm(0)' created for font 'cmunrm' with
+(fontspec)             options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"cmunrm:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"cmunrm:mode=node;script=latn;language=dflt;+smcp;"
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmunrm' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load cache: extra_cmuserif-boldnonextended.luc)
+
+Package fontspec Info: Could not resolve font "cmunrb/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "cmunrb/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "cmunrb/I" (it probably doesn't
+(fontspec)             exist).
+
+luaotfload | aux : font no 254 (nil) does not define feature smcp for script lat
+n with language dflt
+
+Package fontspec Info: Font family 'cmunrb(0)' created for font 'cmunrb' with
+(fontspec)             options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"cmunrb:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmunrb' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load cache: extra_cmuserif-bold.luc)
+
+Package fontspec Info: Could not resolve font "cmunbx/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "cmunbx/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "cmunbx/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'cmunbx(0)' created for font 'cmunbx' with
+(fontspec)             options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"cmunbx:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"cmunbx:mode=node;script=latn;language=dflt;+smcp;"
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmunbx' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Package fontspec Info: Could not resolve font "lmroman10-regular/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "lmroman10-regular/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "lmroman10-regular/I" (it
+(fontspec)             probably doesn't exist).
+
+luaotfload | aux : font no 264 (nil) does not define feature smcp for script lat
+n with language dflt
+
+Package fontspec Info: Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"lmroman10-regular:mode=node;script=latn;language=dflt
+;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmroman10-regular' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load cache: extra_lmroman10-italic.luc)
+
+Package fontspec Info: Could not resolve font "lmroman10-italic/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "lmroman10-italic/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "lmroman10-italic/I" (it
+(fontspec)             probably doesn't exist).
+
+luaotfload | aux : font no 269 (nil) does not define feature smcp for script lat
+n with language dflt
+
+Package fontspec Info: Font family 'lmroman10-italic(0)' created for font
+(fontspec)             'lmroman10-italic' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"lmroman10-italic:mode=node;script=latn;language=dflt;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmroman10-italic' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load cache: extra_lmromanslant10-regular.luc)
+
+Package fontspec Info: Could not resolve font "lmromanslant10-regular/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "lmromanslant10-regular/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "lmromanslant10-regular/I" (it
+(fontspec)             probably doesn't exist).
+
+luaotfload | aux : font no 274 (nil) does not define feature smcp for script lat
+n with language dflt
+
+Package fontspec Info: Font family 'lmromanslant10-regular(0)' created for
+(fontspec)             font 'lmromanslant10-regular' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"lmromanslant10-regular:mode=node;script=latn;language
+=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmromanslant10-regular' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load cache: extra_lmromancaps10-regular.luc)
+
+Package fontspec Info: Could not resolve font "lmromancaps10-regular/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "lmromancaps10-regular/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "lmromancaps10-regular/I" (it
+(fontspec)             probably doesn't exist).
+
+luaotfload | aux : font no 279 (nil) does not define feature smcp for script lat
+n with language dflt
+
+Package fontspec Info: Font family 'lmromancaps10-regular(0)' created for font
+(fontspec)             'lmromancaps10-regular' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"lmromancaps10-regular:mode=node;script=latn;language=
+dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmromancaps10-regular' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Overfull \vbox (7.6956pt too high) detected at line 247
+ []
+
+[7
+
+](load cache: extra_notosans-extralight.luc)
+
+Package fontspec Info: Could not resolve font "NotoSans-ExtraLight/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NotoSans-ExtraLight/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NotoSans-ExtraLight/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'NotoSans-ExtraLight(0)' created for font
+(fontspec)             'NotoSans-ExtraLight' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"NotoSans-ExtraLight:mode=node;script=latn;language=df
+lt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"NotoSans-ExtraLight:mode=node;script=latn;language=df
+lt;+smcp;"
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSans-ExtraLight' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load cache: extra_notosans-medium.luc)
+
+Package fontspec Info: Could not resolve font "NotoSans-Medium/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NotoSans-Medium/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NotoSans-Medium/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'NotoSans-Medium(0)' created for font
+(fontspec)             'NotoSans-Medium' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"NotoSans-Medium:mode=node;script=latn;language=dflt;"
+
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"NotoSans-Medium:mode=node;script=latn;language=dflt;+
+smcp;"
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSans-Medium' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load cache: extra_notosans-bold.luc)
+
+Package fontspec Info: Could not resolve font "NotoSans-Bold/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NotoSans-Bold/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NotoSans-Bold/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'NotoSans-Bold(0)' created for font
+(fontspec)             'NotoSans-Bold' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"NotoSans-Bold:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"NotoSans-Bold:mode=node;script=latn;language=dflt;+sm
+cp;"
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSans-Bold' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load cache: extra_notosans-condensed.luc)
+
+Package fontspec Info: Could not resolve font "NotoSans-Condensed/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NotoSans-Condensed/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NotoSans-Condensed/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'NotoSans-Condensed(0)' created for font
+(fontspec)             'NotoSans-Condensed' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"NotoSans-Condensed:mode=node;script=latn;language=dfl
+t;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"NotoSans-Condensed:mode=node;script=latn;language=dfl
+t;+smcp;"
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSans-Condensed' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load cache: extra_lmromancaps10-oblique.luc)
+
+Package fontspec Info: Could not resolve font "lmromancaps10-oblique/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "lmromancaps10-oblique/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "lmromancaps10-oblique/I" (it
+(fontspec)             probably doesn't exist).
+
+luaotfload | aux : font no 304 (nil) does not define feature smcp for script lat
+n with language dflt
+
+Package fontspec Info: Font family 'lmromancaps10-oblique(0)' created for font
+(fontspec)             'lmromancaps10-oblique' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"lmromancaps10-oblique:mode=node;script=latn;language=
+dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmromancaps10-oblique' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [8
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 294.
+
+[9
+
+]
+LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/b/n' will be
+(Font)              scaled to size 7.69775pt on input line 322.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/b/n' will be
+(Font)              scaled to size 7.69775pt on input line 322.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 8.46753pt on input line 322.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 6.35065pt on input line 322.
+LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/b/n' will be
+(Font)              scaled to size 8.46753pt on input line 322.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/b/n' will be
+(Font)              scaled to size 8.46753pt on input line 322.
+ [10
+
+]
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 7.0242pt on input line 348.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 5.2922pt on input line 348.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 348.
+
+LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 7.0242pt on input line 348.
+LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 348.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 348.
+LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/b/n' will be
+(Font)              scaled to size 9.6222pt on input line 348.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/b/n' will be
+(Font)              scaled to size 9.6222pt on input line 348.
+[11
+
+]
+Overfull \vbox (11.99895pt too high) detected at line 375
+ []
+
+[12
+
+] [13
+
+] [14
+
+]
+LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 16.62714pt on input line 435.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 16.62714pt on input line 435.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 12.02774pt on input line 435.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 9.04485pt on input line 435.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <12.5> not available
+(Font)              size <12> substituted on input line 435.
+
+LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 12.02774pt on input line 435.
+<bibunsho.jpg, id=125, 160.6pt x 202.7575pt>
+File: bibunsho.jpg Graphic file (type jpg)
+<use bibunsho.jpg>
+Package luatex.def Info: bibunsho.jpg  used on input line 435.
+(luatex.def)             Requested size: 60.97226pt x 76.97754pt.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 5.96574pt on input line 435.
+LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-B(1)/m/n' will be
+(Font)              scaled to size 5.96574pt on input line 435.
+<chounyumon.jpg, id=126, 132.15086pt x 206.48572pt>
+File: chounyumon.jpg Graphic file (type jpg)
+<use chounyumon.jpg>
+Package luatex.def Info: chounyumon.jpg  used on input line 435.
+(luatex.def)             Requested size: 49.26405pt x 76.97754pt.
+
+Overfull \vbox (8.98412pt too high) detected at line 435
+ []
+
+[15
+
+<./bibunsho.jpg><./chounyumon.jpg>]
 \tf@nav=\write8
 
 \openout8 = eptexdonf2020.nav
@@ -2453,35 +3006,54 @@ LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-B(1)/b/n' will be
 \tf@snm=\write10
 
 \openout10 = eptexdonf2020.snm
+ (./eptexdonf2020.aux)
 
-(./eptexdonf2020.aux)
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.5pt have occurred.
+
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `eptexdonf2020.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 252615D221096366D45BA2AA329A7B87;496.
 )
 
 Here is how much of LuaTeX's memory you used:
- 47673 strings out of 478830
- 125031,1977958 words of node,token memory allocated
- 54035 words of node memory still in use:
-   63 hlist, 8 vlist, 100 rule, 1 disc, 10 local_par, 2 math, 234 glue, 403 kern
-, 58 penalty, 1 margin_kern, 183 glyph, 21714 attribute, 188 glue_spec, 1108 att
-ribute_list, 4 write, 91 user_defined, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_a
-ction, 64 pdf_colorstack nodes
-   avail lists: 1:16,2:3877,3:195,4:621,5:90,6:36,7:1399,8:34,9:604,10:20,11:7
- 65003 multiletter control sequences out of 65536+600000
- 225 fonts using 214683527 bytes
- 125i,13n,123p,1842b,689s stack positions out of 5000i,500n,10000p,200000b,200000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</Users/hitomisa
-n/Library/Fonts/HackGen-Regular.ttf></Library/Fonts/FOT-RodinNTLGPro-B.otf></Lib
-rary/Fonts/FOT-RodinNTLGPro-EB.otf></usr/local/texlive/2020/texmf-dist/fonts/typ
-e1/urw/palatino/uplr8a.pfb>
-Output written on eptexdonf2020.pdf (2 pages, 93933 bytes).
+ 49583 strings out of 478830
+ 195367,1977958 words of node,token memory allocated
+ 92405 words of node memory still in use:
+   101 hlist, 14 vlist, 155 rule, 2 disc, 11 local_par, 280 glue, 774 kern, 54 p
+enalty, 216 glyph, 35925 attribute, 1053 glue_spec, 1854 attribute_list, 4 write
+, 329 user_defined, 24 pdf_literal, 2 pdf_action, 16 pdf_colorstack, 2 pdf_setma
+trix, 2 pdf_save, 2 pdf_restore nodes
+   avail lists: 1:37,2:17716,3:454,4:881,5:96,6:50,7:3561,8:54,9:1317,10:33,11:3
+0
+ 66421 multiletter control sequences out of 65536+600000
+ 717 fonts using 315337671 bytes
+ 125i,13n,123p,1842b,1130s stack positions out of 5000i,500n,10000p,200000b,200000s
+</usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmromancaps10-obliq
+ue.otf></Users/hitomisan/Library/Fonts/NotoSans-Condensed.ttf></Users/hitomisan/
+Library/Fonts/NotoSans-Bold.ttf></Users/hitomisan/Library/Fonts/NotoSans-Medium.
+ttf></Users/hitomisan/Library/Fonts/NotoSans-ExtraLight.ttf></usr/local/texlive/
+2020/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular.otf></usr/local/t
+exlive/2020/texmf-dist/fonts/opentype/public/lm/lmromanslant10-regular.otf></usr
+/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></u
+sr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
+</usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunbx.otf>
+</usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunrb.otf>
+</usr/local/texlive/2020/texmf-dist/fonts/opentype/public/cm-unicode/cmunrm.otf>
+</System/Library/Fonts/Palatino.ttc></System/Library/Fonts/Times.ttc>{/usr/local
+/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</Users/hitomisan/Library/F
+onts/HackGen-Regular.ttf></Library/Fonts/FOT-RodinNTLGPro-B.otf
+warning  (file /Library/Fonts/FOT-RodinNTLGPro-B.otf) (cff): Type2 Charstring Pa
+rser: garbage after endchar
+></Library/Fonts/FOT-RodinNTLGPro-EB.otf></usr/local/texlive/2020/texmf-dist/fon
+ts/type1/public/newpx/NewPXMI_gnu.pfb></usr/local/texlive/2020/texmf-dist/fonts/
+type1/urw/palatino/uplr8a.pfb>
+Output written on eptexdonf2020.pdf (15 pages, 412749 bytes).
 
-PDF statistics: 56 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 131072)
- 16 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 250 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 131072)
+ 32 words of extra memory for PDF output out of 10000 (max. 100000000)
 

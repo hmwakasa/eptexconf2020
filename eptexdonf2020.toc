@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{山下弘展さん発表\\『最近の LaTeX は ○○』}{4}{0}{1}
+\beamer@sectionintoc {2}{八登崇之さん発表\\『「日本語 LaTeX」が多すぎる件について』}{9}{0}{2}
